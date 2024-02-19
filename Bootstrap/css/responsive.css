@@ -1,0 +1,76 @@
+@media (max-width: 1024px) {
+    .banner{
+        margin-bottom: 80px;
+    }
+    
+    .tips-post{
+        margin-bottom: 80px;
+    }
+}
+
+@media (max-width: 991px) {
+    .thumbnail .overlay{
+        display: none;
+    }
+}
+
+@media (max-width: 768px){
+    .banner{
+        margin-bottom: 60px;
+    }
+
+	.site-contact .email{
+        margin-right: 10px
+    }
+
+    .site-contact .email a{
+        padding-right: 15px;
+    }
+
+    .site-contact .social ul li{
+        padding-right: 10px;
+    }
+
+    .inner-banner{
+        padding: 120px 0 122px
+    }
+
+    .inner-banner h1{
+        font-size: 42px;
+        margin-bottom: 50px
+    }
+
+    .inner-banner p{
+        font-size: 20px;
+        margin-bottom: 16px;
+    }
+
+    .inner-banner .banner-form input {
+        width: 100%;
+        font-size: 12px;
+        padding: 15px 146px 15px 17px;
+    }
+
+    .inner-banner .banner-form .btn-seaarch {
+        right: 17px;
+        padding: 12px 26px;
+    }
+
+    .tips-post{
+        margin-bottom: 60px;
+    }
+
+    .thumbnail .overlay{
+        display: none;
+    }
+} 
+
+@media (max-width: 575px) {
+    .inner-banner{
+        padding: 90px 0 92px;
+    }
+
+    .inner-banner .banner-form{
+        padding: 0 15px;
+    }
+}
